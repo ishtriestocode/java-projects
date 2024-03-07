@@ -18,3 +18,11 @@ If you encounter any issues or have any questions, feel free to open an issue.
 Contributing
 
 Contributions are welcome! If you have any ideas for improvement or would like to add new features, please fork the repository and submit a pull request.
+
+
+
+
+project-2
+facctorial calculator 
+
+
