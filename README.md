@@ -7,7 +7,7 @@ Welcome to the Java Calculator project! This simple calculator application is de
 Features
 
 -Addition: Add two numbers together.
--Subtraction: Subtract one number from another.
+-Subtraction: Subtract one number from another.       
 -Multiplication: Multiply two numbers.
 -Division: Divide one number by another.
 
